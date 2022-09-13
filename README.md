@@ -3,7 +3,7 @@ This is a project to get an insight of responsive layouts and using JavaScript t
 
 ## Getting Started
 1. extract the ZIP file to get the full experience
-2. run the html file in your browser to see how it running
+2. run the html file in your browser to see it running
 3. download a code editor to open the files and have a detailed insight of the code
 4. open the files in your code editor(f.e. Visual studio code)
 
